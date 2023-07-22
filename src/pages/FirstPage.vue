@@ -1,72 +1,61 @@
 <template>
     <div class="container-lg">
-        <div class="box-image">
-        </div>
-
-      <!-- <p> " I.m "
-        <span class="typed" data-typed-items = "Designer,Developer,Web">Designer</span>
-            <span class="typed-cursor typed-cursor--blank"  aria-hidden="true">|</span>
-        </p>
-       -->
-
-
+        <router-link to="/aboutList">
+            <div class="box">
+            </div>
+        </router-link>
     </div>
-    <h5> Hi, My name is Abdurashid! I'm FullSteakDeveloper </h5>
-    <router-link to="/aboutMe">
-        <button>About Me?</button>
-    </router-link>
 </template>
 
 <script>
 
-export default {
-    name: "FirstPage",
-}
 </script>
 
 <style scoped>
 
 .container-lg {
-    margin-top: 200px;
-    height: 400px;
-    border-left: 2px solid #24943e;
-    padding-left: 100px;
-
+    position:relative ;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
-.box-image {
-    border-radius: 50%;
-    top: 50px;
-    background-image: url("../assets/img/Abdurashid.jpg");
-    background-size: cover;
+.box {
+    position: relative;
+    animation: box-animation 1s ease-in-out ;
     height: 300px;
     width: 300px;
-
-
+    background-image: url("../assets/img/firstPage.jpg");
+    background-size: cover;
+    border-radius: 6px;
+    box-shadow: #c8ce29 12px 10px;
 }
 
-h5 {
-    position: absolute;
-    left:800px;
-    top: 350px
+.box:hover {
+    margin-top: 5px;
 }
 
-button {
-    position: absolute;
-    border-radius: 5px;
-    border: 1px solid black;
-    top:390px;
+.container-lg {
+    border-radius: 10px;
+    border: none;
+    width: 380px;
+    margin-top: 50px;
+    background-image: url("../assets/img/background.png");
+    box-shadow: #f6a266 -1px 3px 18px 18px;
 }
 
-button:hover {
-    background-color: black;
-    color: #ffffff;
+@keyframes box-animation {
+    from {
+         top: -100px;
+
+    }
+    to {
+        top: 5px;
+    }
 }
 
-a {
-    padding-left: 800px;
-}
 
 
 </style>

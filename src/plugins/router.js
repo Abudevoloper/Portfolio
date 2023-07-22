@@ -1,29 +1,35 @@
 import {createRouter, createWebHistory} from "vue-router"
-import AboutMe from "@/pages/AboutMe";
-import FirstPage from "@/pages/FirstPage";
-import MedianCol from "@/components/HeaderList";
-
-
 
 const routes = [
     {
         path: '/',
-        component: FirstPage
+        component: function () {
+            return import ('../pages/FirstPage.vue')
+        }
+
+    },
+    {
+        path: '/aboutList',
+        component: function () {
+            return import ('../components/AboutList.vue')
+        }
+
     },
 
-
     {
-        path: '/aboutMe',
-        component: AboutMe
-    } ,
+        path: '/exit',
+        component: function () {
+            return import ('../pages/FirstPage.vue')
+        }
 
-    {
-        path: '/menu',
-        component: MedianCol
-    } ,
+    }
+
+
 ]
+
 
 export default createRouter({
     history: createWebHistory(),
     routes,
+
 })
