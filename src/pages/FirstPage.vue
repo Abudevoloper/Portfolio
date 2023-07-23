@@ -41,18 +41,18 @@
     border-radius: 10px;
     border: none;
     width: 380px;
-    margin-top: 50px;
+    margin-top: 20px;
     background-image: url("../assets/img/background.png");
     box-shadow: #f6a266 -1px 3px 18px 18px;
 }
 
 @keyframes box-animation {
     from {
-         top: -100px;
+       opacity: 0;
 
     }
     to {
-        top: 5px;
+       opacity: 1;
     }
 }
 
