@@ -14,14 +14,14 @@
                 <div class="resume-item">
                     <p>
                         <em>
-                            2013-yilda Farg'ona viloyati Farg'ona shahar 2-sonli akademik litseyiga ta'lim olish uchun bordim,
-                            Litseydan boshlab Matematika va Fizika fanidan tahsil olishni boshladim,
-                            2016-yil Litseyni tamomlab 'FarPI' ga talabalikka tavsiya qilindim
+                            2013-yilda Farg'ona viloyati Farg'ona shahar 2-sonli akademik litseyiga ta'lim olish uchun
+                            bordim,
+                            2016-yil Litseyni tamomlab 'FarPI' ga talabalikka tavsiya qilindim,
+                            Quyida batafsil...
 
                         </em>
                     </p>
                     <ul>
-                        .
                         <li> Uzbekistan, Ferghana City</li>
                         <li> Academic lyceum</li>
                         <li>Math, Physics</li>
@@ -35,10 +35,11 @@
                     2013-2016
                 </h6>
                 <br>
-                <em> Uzbekistan, FarPI, .. </em>
+                <em> Uzbekistan:FarPI, Lyceum... </em>
                 <ul>
-                    <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis fugiat mollitia possimus
-                        quas quo soluta voluptas!</p></li>
+                    <li><p>2013-yilda Farg'ona davlat Universiteti Qoshidagi 2-sonli
+                        Akademik Litseyiga O'qish uchun bordim, Litseyda Matematika Fizika fanlaridan tahsil oldim.
+                    </p></li>
                     <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis fugiat mollitia possimus
                         quas quo soluta voluptas!</p></li>
                     <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis fugiat mollitia possimus
