@@ -35,27 +35,36 @@
                     2013-2016
                 </h6>
                 <br>
-                <em> Uzbekistan:FarPI, Lyceum... </em>
+                <em> Uzbekistan: Lyceum, FarPI... </em>
                 <ul>
                     <li><p>2013-yilda Farg'ona davlat Universiteti Qoshidagi 2-sonli
                         Akademik Litseyiga O'qish uchun bordim, Litseyda Matematika Fizika fanlaridan tahsil oldim.
                     </p></li>
-                    <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis fugiat mollitia possimus
-                        quas quo soluta voluptas!</p></li>
-                    <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis fugiat mollitia possimus
-                        quas quo soluta voluptas!</p></li>
-
-
+                    <li><p>
+                        Litsey davrida o'tgan 3yil men uchun kotta koreriya bolib qoldi,
+                        professor , o'qituvchilar va bilimmi kuchli kursdoshlar orasida qiyinchiliklar yetarli bo'ldi,
+                        Shunga qaramasdan Oila a'zolarim undovi bilan litseyni yaxshi tamomlab Institutga o'qishga
+                        tavsiya qilindim.
+                    </p></li>
+                    <li><p>
+                        FarPI (Farg'ona Politexnika Instituti), 2016-2019
+                    </p></li>
                 </ul>
             </div>
             <span> Education </span>
             <div class="education-item">
                 <h6> 2016-2019 </h6> <br>
-                <em> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, quaerat?</em>
+                <em> Talabalik davri men o'ylaganimdek chiqmadi</em>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Commodi culpa dignissimos, enim esse itaque maxime mollitia nam nemo nisi ratione,
-                    recusandae repellendus sint vero voluptatem.
+                    Birinchi bosqich yangi kursdoshlar, yangi o'qituvchilar,
+                    Men uchun begona bo'lgan, lekin Qiziqqan <em> Qurilish Fakulteti </em> yana o'sha aralash fanlar , aqliy
+                    bosimdek tuyilardi
+                    Birinchi bosqich oxirigacha <em> yo'nalishim bo'yicha tushuncha to'liq ololmadim</em> va shu vaqt davomida
+                    <em>matematika fanidan qo'shimcha dars</em> o'tib bilimimni oz bo'lsa ham ulashdim,
+                    vaziyatimni tushungan holda yaqin <em>kursdosh do'stimdan</em> chet elda o'qib ishlash tavsiyasini oldim bu
+                    menga juda yoqdi.
+                    Va <em> Janubiy Koreaga </em> o'qish uchun bordim u davlat o'qish ishlash koreriya qilish uchun ayni muddoa
+                    edi.
                 </p>
             </div>
 
@@ -66,60 +75,62 @@
                 <span> First appearance in IT </span>
                 <div class="resume-item">
 
-                    <p class="padding-left"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Blanditiis dolores est harum libero quae quaerat reprehenderit sapiente sint tempore, tenetur?
-                    </p>
-                    <p class="padding-left"> Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Blanditiis dolores est harum libero quae quaerat reprehenderit sapiente sint tempore, tenetur?
-                    </p>
                     <ul>
                         <li>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                Blanditiis dolores est harum libero quae quaerat reprehenderit sapiente sint tempore,
-                                tenetur?
+                            <p>
+                                Dasturlashni o'rganishga bo'lgan qiziqishim <a target="_blank" href="https://Kadirov.Dev" class="text-decoration-none">Kadirov.Dev</a> asoschisi Akmal Qodirovni
+                                Dasturlash haqidagi bergan intervyusidan keyin boshlangan,
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                              <a class="text-decoration-none " target="_blank" href="https://www.youtube.com/@kadirovDev">KadirovDev</a> YouTube kanali orqali dasturlash uchun asosiy tushunchalarni o'rganib
+                                5 oy davomida <strong>Junior</strong> bosqich bilimlarini olishga qaror qildim,
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Darslar belgilangan qo'llanma asosida o'tildi ,
+                                Bu 5 oy davomida HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Symfony, ApiPlatform, Vue.js, Git, GitHub va PhpStorm
+                                dan tahsil oldim.
                             </p>
                         </li>
                     </ul>
                 </div>
             </div>
 
-            <span> PHP  </span>
-            <div class="resume-item">
-                <p class="padding-left">
-                    Lorem ipsum dolor sit amet,
-                    consectetur adipisicing elit.
-                    Alias aperiam delectus enim minima, nesciunt placeat porro quo rem similique voluptatem.
-                </p>
-                <ul>
-                    <li>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            Blanditiis dolores est harum libero quae quaerat reprehenderit sapiente sint tempore,
-                            tenetur?
-                        </p>
-                    </li>
-                </ul>
-            </div>
+<!--            <span> PHP </span>-->
+<!--            <div class="resume-item">-->
+<!--                <ul>-->
+<!--                    <li>-->
+<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.-->
+<!--                            Blanditiis dolores est harum libero quae quaerat reprehenderit sapiente sint tempore,-->
+<!--                            tenetur?-->
+<!--                        </p>-->
+<!--                    </li>-->
+<!--                    <li>-->
+<!--                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.-->
+<!--                            Blanditiis dolores est harum libero quae quaerat reprehenderit sapiente sint tempore,-->
+<!--                            tenetur?-->
+<!--                        </p>-->
+<!--                    </li>-->
+<!--                </ul>-->
+<!--            </div>-->
             <span> About my dream</span>
             <div class="resume-item">
-                <p class="padding-left">
-                    Lorem ipsum dolor sit amet,
-                    consectetur adipisicing elit.
-                    Alias aperiam delectus enim minima, nesciunt placeat porro quo rem similique voluptatem.
-                </p>
                 <ul>
                     <li>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            Blanditiis dolores est harum libero quae quaerat reprehenderit sapiente sint tempore,
-                            tenetur?
+                        <p>
+                            Dasturlash ishi orqali kop davlatlarga borish,
+                            O'zim mustaqil WebSite yaratib dunyo miqyosiga olib chiqish men uchun maqsadlarimni boshlanishi.
+                        </p>
+                    </li><li>
+                        <p>
+                            O'zbekistonda o'sib kelayotgan yoshlar uchun va respublika rivojiga ta'sir qila oladigan kompaniya va markazlar yaratish,
+                            O'zbekistonlik yoshlarni og'ir mehnatdan olib chiqishga  sababchilardan biri bo'lish.
                         </p>
                     </li>
                 </ul>
-                <p>
-                    <em>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Ab earum excepturi, expedita fuga fugiat fugit laborum placeat quo sequi suscipit!
-                    </em>
-                </p>
 
             </div>
         </div>
