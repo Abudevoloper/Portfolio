@@ -84,7 +84,8 @@
                         </li>
                         <li>
                             <p>
-                              <a class="text-decoration-none " target="_blank" href="https://www.youtube.com/@kadirovDev">KadirovDev</a> YouTube kanali orqali dasturlash uchun asosiy tushunchalarni o'rganib
+                              <a class="text-decoration-none " target="_blank" href="https://www.youtube.com/@kadirovDev"> KadirovDev </a>
+                                YouTube kanali orqali dasturlash uchun asosiy tushunchalarni o'rganib
                                 5 oy davomida <strong>Junior</strong> bosqich bilimlarini olishga qaror qildim,
                             </p>
                         </li>
@@ -98,7 +99,6 @@
                     </ul>
                 </div>
             </div>
-
 <!--            <span> PHP </span>-->
 <!--            <div class="resume-item">-->
 <!--                <ul>-->
@@ -135,11 +135,14 @@
             </div>
         </div>
     </div>
+    <FooterList/>
 </template>
 
 <script>
+import FooterList from '@/components/FooterList.vue'
 export default {
-    name: "PortfolioList"
+    name: "PortfolioList",
+    components: {FooterList}
 }
 
 </script>
@@ -201,9 +204,7 @@ h6 {
     padding: 20px 0 0 10px;
 }
 
-.padding-left {
-    padding-left: 30px;
-}
+
 
 @keyframes go-up-slide {
     from {

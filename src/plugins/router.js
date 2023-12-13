@@ -10,15 +10,6 @@ const routes = [
 
     },
 
-    {
-        path: '/exit',
-        component: function () {
-            return import ('../pages/FirstPage.vue')
-        }
-
-    }
-
-
 ]
 
 
