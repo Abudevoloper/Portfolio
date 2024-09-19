@@ -56,14 +56,14 @@
                 <h6> 2016-2019 </h6> <br>
                 <em> Talabalik davri men o'ylaganimdek chiqmadi</em>
                 <p>
-                    Birinchi bosqich yangi kursdoshlar, yangi o'qituvchilar,
-                    Men uchun begona bo'lgan, lekin Qiziqqan <em> Qurilish Fakulteti </em> yana o'sha aralash fanlar , aqliy
-                    bosimdek tuyilardi
-                    Birinchi bosqich oxirigacha <em> yo'nalishim bo'yicha tushuncha to'liq ololmadim</em> va shu vaqt davomida
-                    <em>matematika fanidan qo'shimcha dars</em> o'tib bilimimni oz bo'lsa ham ulashdim,
-                    vaziyatimni tushungan holda yaqin <em>kursdosh do'stimdan</em> chet elda o'qib ishlash tavsiyasini oldim bu
-                    menga juda yoqdi.
-                    Va <em> Janubiy Koreaga </em> o'qish uchun bordim u davlat o'qish ishlash koreriya qilish uchun ayni muddoa
+                   <ul><li> Birinchi bosqich yangi kursdoshlar, yangi o'qituvchilar,
+                    Men uchun begona bo'lgan, lekin Qiziqqan <strong> Qurilish Fakulteti </strong> yana o'sha aralash fanlar , aqliy
+                    bosimdek tuyilardi</li></ul>
+                   <ul><li>Birinchi bosqich oxirigacha <strong> yo'nalishim bo'yicha tushuncha to'liq ololmadim</strong> va shu vaqt davomida
+                    <strong>matematika fanidan qo'shimcha dars</strong> o'tib bilimimni oz bo'lsa ham ulashdim</li> </ul>
+                    <ul><li>Vaziyatimni tushungan holda yaqin <em>kursdosh do'stimdan</em> chet elda o'qib ishlash tavsiyasini oldim bu
+                    menga juda yoqdi.</li></ul>
+                    Va <strong> Janubiy Koreaga </strong> o'qish uchun bordim u davlat o'qish ishlash koreriya qilish uchun ayni muddoa
                     edi.
                 </p>
             </div>
@@ -139,10 +139,17 @@
 </template>
 
 <script>
-import FooterList from '@/components/FooterList.vue'
+import FooterList from "../components/FooterList";
+
+
+
+
 export default {
     name: "PortfolioList",
-    components: {FooterList}
+    components: {
+FooterList
+    }
+
 }
 
 </script>
@@ -159,11 +166,6 @@ h3 {
 .resume-item {
     border-left: 2px #0563b8 solid;
     padding: 0 0 0 10px;
-
-}
-
-
-.col-12 {
 
 }
 
