@@ -25,6 +25,7 @@ export default {
     left: 50%;
     border-radius: 50%;
     animation: radius ease-in-out  3s;
+    border: 10px dashed #9882ef;
 }
 
 .personal-info {
