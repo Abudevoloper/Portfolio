@@ -63,7 +63,7 @@
                     <strong>matematika fanidan qo'shimcha dars</strong> o'tib bilimimni oz bo'lsa ham ulashdim</li> </ul>
                     <ul><li>Vaziyatimni tushungan holda yaqin <em>kursdosh do'stimdan</em> chet elda o'qib ishlash tavsiyasini oldim bu
                     menga juda yoqdi.</li></ul>
-                    Va <strong> Janubiy Koreaga </strong> o'qish uchun bordim u davlat o'qish ishlash koreriya qilish uchun ayni muddoa
+                    Va <strong> Janubiy Koreaga </strong> o'qish uchun bordim u davlat o'qish ishlash <strong>career</strong> qilish uchun ayni muddoa
                     edi.
                 </p>
             </div>
@@ -79,7 +79,7 @@
                         <li>
                             <p>
                                 Dasturlashni o'rganishga bo'lgan qiziqishim <a target="_blank" href="https://Kadirov.Dev" class="text-decoration-none">Kadirov.Dev</a> asoschisi Akmal Qodirovni
-                                Dasturlash haqidagi bergan intervyusidan keyin boshlangan,
+                                Dasturlash haqidagi bergan intervyusidan keyin boshlandi.
                             </p>
                         </li>
                         <li>
@@ -122,11 +122,11 @@
                     <li>
                         <p>
                             Dasturlash ishi orqali kop davlatlarga borish,
-                            O'zim mustaqil WebSite yaratib dunyo miqyosiga olib chiqish men uchun maqsadlarimni boshlanishi.
+                            O'zim mustaqil WebSite yaratib dunyo miqyosiga olib chiqish men uchun maqsadlarim boshlanishi.
                         </p>
                     </li><li>
                         <p>
-                            O'zbekistonda o'sib kelayotgan yoshlar uchun va respublika rivojiga ta'sir qila oladigan kompaniya va markazlar yaratish,
+                            O'zbekistonda o'sib kelayotgan yoshlarga va Respublika rivojiga ta'sir qila oladigan kompaniya va markazlar yaratish,
                             O'zbekistonlik yoshlarni og'ir mehnatdan olib chiqishga  sababchilardan biri bo'lish.
                         </p>
                     </li>

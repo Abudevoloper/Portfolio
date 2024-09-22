@@ -28,17 +28,19 @@ export default {
 }
 
 .personal-info {
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
     top: 40%;
+
+    
    
 }
 .next-page {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     position: absolute;
-    top: 50%;
+    top: 550px;
     text-decoration: none;
-    font-size: large;   
+    font-size: x-large;   
     background: #9882ef;
     color: #fefefe;
    

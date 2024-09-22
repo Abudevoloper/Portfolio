@@ -13,8 +13,8 @@
         <p>
             Hayotda hamma insonlar muaffaqqiyatga erishish uchun imkoniyatlari boricha
             xarakat qiladilar.
-            Muaffaqqiyat deganda alsida nimani tushunish kerak?
-            Yaxshi Uy -? Qimmat Mashina -?, Pul-? ,
+            Muaffaqqiyat deganda aslida nimani tushunish kerak?
+            Yaxshi Uy?, Qimmat Mashina?, Pul?
 
         </p>
 
@@ -33,14 +33,13 @@
                     <div class="row">
                         <p>
                             Odatda Kasb tanlash umrimiz davomida asosiy ro'l o'ynaydi.<br/>
-                            Yil, Oy!?, yo'q Kunimiz qiziqarli o'tishi kasbimiz o'zimizga,
-                            ya'ni xarakterimizga,qiziqishlarimizga mos kelishi kerak.
+                            Yil, Oy: -Yo'q Kunimiz qiziqarli o'tishi kasbimiz
+                             harakterimizga, qiziqishlarimizga mos kelishi kerak.
                             Men o'zimni Web Developer va Desinger kasbida tasavvur qildim.
-
                         </p>
                         <div class="col-12 col-sm-6 col-md-6">
                             <ul>
-                                <li><small> Birthday: </small>7-July 1997</li>
+                                <li><small> Birthday: </small> 1997 July </li>
                                 <li> <small>Working website .....</small>
                                     <a href="#" class="text-decoration-none p-2">
 
